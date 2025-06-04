@@ -27,3 +27,6 @@ Instant feedback on each answer
 Easy navigation between questions
 
 Option to restart the quiz after finishing
+
+#output
+![Image](https://github.com/user-attachments/assets/cac4acc2-b58c-434c-977c-cf6d8d4d5fcc)
